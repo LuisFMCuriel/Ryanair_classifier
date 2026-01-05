@@ -1,8 +1,5 @@
 
-# AI/ML Engineer Role – Recruitment Task
-
-
-## Ryanair Customer Query Classifier
+# Ryanair Customer Query Classifier
 
 This project classifies customer queries into predefined categories (e.g., Flight Changes, Mobile App Issues) using a machine learning model. It includes a deployable FastAPI microservice for real-time and batch inference.
 
