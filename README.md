@@ -232,4 +232,5 @@ Three model versions were tested:
 
 The third model was chosen for deployment. It offers top interpretability and performance while eliminating non-discriminative features.
 
+**Data is not included in the repo due to confidentiality purposes**
 ---
